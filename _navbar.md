@@ -1,3 +1,3 @@
 - Translations
   - [:cn: 中文](/)
-  - [:uk: English](/JavaGuide/)
+  - [:uk: English](/JavaGuideIndex/)
