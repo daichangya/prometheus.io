@@ -10,6 +10,16 @@ docsify 是一个动态生成文档网站的工具。不同于 GitBook、Hexo �
 
 查看[快速开始](docs/quickstart.md)了解详情。
 
+## 特性
+
+- 无需构建，写完文档直接发布
+- 容易使用并且轻量 (压缩后 ~21kB)
+- 智能的全文搜索
+- 提供多套主题
+- 丰富的 API
+- 支持 Emoji
+- 兼容 IE11
+- 支持服务端渲染 SSR ([示例](https://github.com/docsifyjs/docsify-ssr-demo))
 
 ## 例子
 
