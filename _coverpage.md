@@ -1,12 +1,9 @@
 ![logo](_media/icon.jpg)
 
-# docsify <small>4.11.3</small>
+# Prometheus 中文文档 <small>适用于v2.6 及以上版本</small>
 
-> A magical documentation site generator.
+> 欢迎关注上面的公众号:分布式编程.
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
 
-[GitHub](https://github.com/daichangya/docsify-demo/)
-[Getting Started](#docsify)
+[GitHub](https://github.com/daichangya/prometheus.io/)
+[Getting Started](#Readme)

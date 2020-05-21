@@ -1,27 +1,39 @@
+# 目录
 
-  * [快速开始](zh-cn/quickstart.md)
-  * [多页文档](zh-cn/more-pages.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
+* [ 序言](README.md)
 
-* 定制化
+* 第一章：介绍
 
-  * [配置项](zh-cn/configuration.md)
-  * [主题](zh-cn/themes.md)
-  * [插件列表](zh-cn/plugins.md)
-  * [开发插件](zh-cn/write-a-plugin.md)
-  * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md)
+* [第1节：Prometheus 简介](1-introduction/overview.md)
 
-* 指南
+* 第二章：概念
+* [第1节：数据模型](2-concepts/data_model.md)
+* [第2节：指标类型](2-concepts/metric_types.md)
 
-  * [部署](zh-cn/deploy.md)
-  * [文档助手](zh-cn/helpers.md)
-  * [兼容 Vue](zh-cn/vue.md)
-  * [CDN](zh-cn/cdn.md)
-  * [离线模式(PWA)](zh-cn/pwa.md)
-  * [服务端渲染 (SSR)](zh-cn/ssr.md)
-  * [文件嵌入<sup style="color:red">(new)<sup>](zh-cn/embed-files.md)
+* 第三章：Prometheus
 
-* [Awesome docsify](zh-cn/awesome.md)
-* [Changelog](zh-cn/changelog.md)
+* 第1节：初识 Prometheus
+* 第2节：安装
+    * [2.1 快速开始](3-prometheus/gettingstarted.md)
+    * [2.2 安装](3-prometheus/installation.md)
+* 第3节：配置
+* 第4节：查询
+    * [4.1 初识 PromQL](3-prometheus/basics.md)
+    * [4.2 操作符](3-prometheus/operators.md)
+    * [4.3 PromQL 内置函数](3-prometheus/functions.md)
+    * [4.4 简单示例](3-prometheus/examples.md)
+    * [4.5 在 HTTP API 中使用 PromQL](3-prometheus/api.md)
+* [第5节：存储](3-prometheus/storage.md)
+* [第6节：联邦集群](3-prometheus/federation.md)
+* 第7节：迁移
+* 第8节：API 稳定性
+
+* 第四章：可视化
+
+* 第五章：监控手段
+
+* 第六章：其他操作
+
+* 第七章：告警
+
+* 第八章：最佳实践
