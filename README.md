@@ -1,4 +1,5 @@
 # Readme
+文档网址：https://daichangya.github.io/prometheus.io/#/
 
 <h1 align="center">Welcome to Prometheus 中文文档 👋</h1>
 <p>
